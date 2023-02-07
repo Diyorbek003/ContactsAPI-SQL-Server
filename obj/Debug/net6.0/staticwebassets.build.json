@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sh23lCIfjzcG1xSKMeG18b49qNnZwBL97r8+OUG/oLU=",
+  "Source": "ConstactsAPI",
+  "BasePath": "_content/ConstactsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
